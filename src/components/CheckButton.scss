@@ -1,0 +1,15 @@
+#checkbutton {
+    height: 50px;
+    min-width: 70px;
+    border: none;
+    border-radius: 8px;
+    color: #000;
+    background-color: white;
+    cursor: pointer;
+    transition: all 0.1s;
+    border: 1px solid #000;
+
+    &:hover {
+        opacity: 0.5;
+    }
+}
